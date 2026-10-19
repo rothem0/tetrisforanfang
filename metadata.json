@@ -1,0 +1,6 @@
+{
+  "name": "토이 블록 테트리스 - 유아용 퍼즐 게임",
+  "description": "아기자기하고 귀여운 동물 블록과 쉬운 조작으로 즐기는 유아 맞춤형 테트리스 게임! 별빛 폭탄, 요술 빗자루, 스티커북까지 풍성한 재미를 선물합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
